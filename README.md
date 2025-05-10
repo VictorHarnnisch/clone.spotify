@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="./public/src/assets/logo/spotify-logo.png" alt="Logo do Projeto Spotify" width="150"/>
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotily" alt="Logo do Projeto Spotify" width="150"/>
 </p>
+
+
 
 <h1 align="center">Projeto Spotify Clone</h1>
 
